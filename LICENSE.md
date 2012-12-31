@@ -1,4 +1,5 @@
-RBanker is a program that scrapes data off of online banking websites for financial analysis.
+**RBanker** is a program that scrapes data off of online banking websites for financial analysis.
+
 Copyright (C) 2012  Weiwei Kong
 
 This program is free software: you can redistribute it and/or modify
