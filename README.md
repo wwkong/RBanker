@@ -1,4 +1,4 @@
-*README and General Information for "Project: RBanker"*
+*README and General Information for RBanker*
 ================================
 
 
