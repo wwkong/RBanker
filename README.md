@@ -1,7 +1,7 @@
 Project Overview
 ================================
 
-Back when I was an intern at a financial consulting firm, I had this idea of finding a way of scraping and analyzing personal banking information from online banking services directly. Unfortunately for me, the only data analysis tool that I had at my disposal at the time was a weak knowledge of HTML pages, VBA, and some intermediate Excel functions.
+Back when I was an intern at a financial consulting firm, I had this idea of finding a way of scraping and analyzing personal banking information from online banking services via scripts. Unfortunately for me, the only data analysis tool that I had at my disposal at the time was a weak knowledge of HTML pages, VBA, and some intermediate Excel functions.
 
 Today, I plan to bring this project back to life using my current favourite data mining tool, R. For now, I am only planning to do some simple scraping and analysis on TD's EasyWeb service but depending on how the project goes, more features and online banking systems may be added.
 
