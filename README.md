@@ -38,6 +38,7 @@ Features to be Implemented
 Future Additional Features
 ================================
 
+* Support for locally stored cookies
 * GTK User GUI
 * Time Series Predictive Algorithms
 * Graphical and Spatial Analysis via R data packages
